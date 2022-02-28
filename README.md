@@ -1,3 +1,3 @@
-# TO-DO App
+# TO DO App
 
-TO-DO App with Django.
+TO DO App with Django.
